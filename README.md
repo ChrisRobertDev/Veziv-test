@@ -1,6 +1,6 @@
 # Veziv-test
 
-Proiectul folosește librăria Unsloth pentru a putea antrena un model mic pe un T4 din cadrul free din Google Colab.
+Proiectul folosește librăria Unsloth pentru a putea antrena un model mic pe un T4 din cadrul free tier  din Google Colab.
 
 ### Rularea proiectului
 
